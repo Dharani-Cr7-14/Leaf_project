@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #e0e889;
+    padding: 20px;
+}
+h2 {
+    color: #2c3e50;
+}
+video {
+    width: 600px;
+    border: 3px solid #2ecc71;
+    border-radius: 10px;
+    margin: 20px 0;
+}
+button {
+    background-color: #da6ab3;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+button:hover {
+    background-color: #2980b9;
+}
+p {
+    font-size: 18px;
+    font-weight: bold;
+}
+
